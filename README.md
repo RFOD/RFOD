@@ -1,5 +1,5 @@
 <h1 align="center">Hello, my name is RainForced</h1>
-<p align="center">I am a FullStack Web Developer, and an aviation Geek!</p>
+<p align="center">I am a FullStack Web Developer, And an Aviation Geek!</p>
 
 ## 📚 My Knowledge:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
