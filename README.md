@@ -7,7 +7,7 @@
   Front-End:
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind,css,bootstrap,ai)](https://skillicons.dev)
 
 <p>
   Other languages:
