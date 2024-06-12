@@ -23,4 +23,3 @@
 
 ## ⛳️ Projects
 <h2> INCOMING! </h2>
-<sup ><sub>*bye*</sub></sup>
